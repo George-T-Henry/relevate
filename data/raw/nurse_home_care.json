@@ -1,0 +1,1000 @@
+{
+  "job_criteria": {
+    "job_title": "Home Care Case Manager RN",
+    "company": "Home Care Services",
+    "department": "Healthcare",
+    "required_skills": [
+      "Case Management",
+      "Registered Nurse",
+      "Patient Care Coordination",
+      "Healthcare Documentation",
+      "Telehealth",
+      "In-home Care"
+    ],
+    "preferred_skills": [
+      "Workers Compensation",
+      "Medical-Surgical",
+      "Acute Care",
+      "Ergonomics"
+    ],
+    "required_experience_years": 3,
+    "experience_level": "mid",
+    "required_certifications": [
+      "RN License",
+      "CCM (Certified Case Manager)"
+    ],
+    "job_description": "I have experience as a case manager, where I effectively coordinate patient care and services. As a registered nurse, I provide in-home case management, ensuring that patients receive the necessary support. I regularly report back to physicians through telehealth or in-hospital visits to keep them informed about patient progress. I am diligent in documenting all interactions and observations while at the patient's home to maintain accurate records.",
+    "responsibilities": [
+      "Coordinate patient care",
+      "Provide in-home case management",
+      "Report to physicians via telehealth",
+      "Maintain accurate patient documentation"
+    ],
+    "location": "Remote/Home-based",
+    "remote_allowed": true
+  },
+  "candidates": [
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Disability Management Associates, Inc",
+          "location": null,
+          "company_id": "",
+          "lnkd_company_id": null,
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2015-06-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2007-03-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--more\" tabindex=\"-1\">\n          \u2022\tDaily oversight of Field Case Managers in workers\u2019 compensation and disability management in WNY and NYC areas<br><br>\u2022\tLiaison between customers &amp; staff to ensure compliance with all contractual obligations, timelines, and cost containment expectations<br><br>\u2022\tRecruiting/interviewing/hiring/evaluation/discipline of staff<br><br>\u2022\tResponsible for the training of new and existing staff; development and implementation of in-service/training programs related to various work functions<br><br>\u2022\tSubmit typed timely initial assessment and progress reports weekly<br><br>\u2022\tCreated and implemented a successful  absenteeism program for accounts. <br><br>\n            \n\n    \n    \n\n    <button class=\"show-more-less-text__button show-more-less-button\n        show-more-less-text__button--less\" data-tracking-control-name=\"public_profile_experience-item_show-less-text-btn\" aria-label=\" description for this position\" aria-expanded=\"true\">\n        \n\n          <icon class=\"show-more-less-text__button-icon show-more-less-button-icon\" data-delayed-url=\"https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg\"></icon>\n    </button>\n  \n        </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Sr. Medical Case Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "FCS Administrators",
+          "location": null,
+          "company_id": "5bd4f9f010cac61dcba3e3b2",
+          "lnkd_company_id": null,
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2007-03-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2006-01-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--more\" tabindex=\"-1\">\n          \u2022\tOn-site WC Case Management for TPA<br><br>\u2022\tLeverage Medical knowledge and liaison with adjusters to identify goals and implement  care plan to achieve timely return to work status. <br><br>\u2022\tMeet corporate goals for telephone contact, inquiry and ensure timely documentation<br><br>\u2022\tMonitor and evaluate effectiveness of the care management plan and modify as necessary<br><br>\u2022\tAssist in problem solving with providers, claims or service issues<br><br>\u2022\tEnsure compliance with state workers\u2019 compensation law<br>\n            \n\n    \n    \n\n    <button class=\"show-more-less-text__button show-more-less-button\n        show-more-less-text__button--less\" data-tracking-control-name=\"public_profile_experience-item_show-less-text-btn\" aria-label=\" description for this position\" aria-expanded=\"true\">\n        \n\n          <icon class=\"show-more-less-text__button-icon show-more-less-button-icon\" data-delayed-url=\"https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg\"></icon>\n    </button>\n  \n        </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Medical Case Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "MEDNY",
+          "location": null,
+          "company_id": "",
+          "lnkd_company_id": null,
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2006-01-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2005-07-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--more\" tabindex=\"-1\">\n          <br>\u2022\tOn site WC Case Management at Delphi (GM)<br><br>\u2022\tConduct and document  initial assessments telephonic and on-site, to secure injury and treatment history,  identify individual needs and implement a specific care management plan to address objectives and goals as identified during assessment <br><br>\u2022\tMaintain and  evaluate care plan by maintaining telephone contacts with treating parties and claimants.<br><br>\u2022\tMonitor and evaluate effectiveness of the care management plan and modify as necessary<br><br>\u2022\tAddress and challenge treatment plan and results with medical providers<br><br>\u2022\tLiaison with UAW representatives, injured worker and Medical Director to ensure compliance and implementation of care plan to assist with a timely return to work<br><br>\u2022\tDevelop and implement safety measures including ergonomic work stations for injury prevention and assess success.<br><br>\n            \n\n    \n    \n\n    <button class=\"show-more-less-text__button show-more-less-button\n        show-more-less-text__button--less\" data-tracking-control-name=\"public_profile_experience-item_show-less-text-btn\" aria-label=\" description for this position\" aria-expanded=\"true\">\n        \n\n          <icon class=\"show-more-less-text__button-icon show-more-less-button-icon\" data-delayed-url=\"https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg\"></icon>\n    </button>\n  \n        </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Medical Case Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Managed Care Network, Inc.",
+          "location": null,
+          "company_id": "5b0c4abc3200621bdb460334",
+          "lnkd_company_id": "managed-care-network-inc.",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2005-07-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2001-01-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--more\" tabindex=\"-1\">\n          \u2022\tField WC Case Management.<br><br>\u2022\tConduct and document  initial assessments, and a specific care management plan to address objectives and goals as identified during assessment <br><br>\u2022\tImplement care plan by maintaining telephone contacts with treating parties and claimants <br><br>\u2022\tTravel and meet personally with medical and treating personal to asses and secure treatment plan and prognosis, challenge and address concerns regarding progress of injured worker.<br><br>\u2022\tMonitor and evaluate effectiveness of the care management plan and modify as necessary<br><br>\u2022\tAssist in problem solving with providers, claims or service issues<br><br>\u2022\tSubmit written, typed reports<br>\n            \n\n    \n    \n\n    <button class=\"show-more-less-text__button show-more-less-button\n        show-more-less-text__button--less\" data-tracking-control-name=\"public_profile_experience-item_show-less-text-btn\" aria-label=\" description for this position\" aria-expanded=\"true\">\n        \n\n          <icon class=\"show-more-less-text__button-icon show-more-less-button-icon\" data-delayed-url=\"https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg\"></icon>\n    </button>\n  \n        </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Nurse Case Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Healthworks, Sisters Healthcare",
+          "location": null,
+          "company_id": "",
+          "lnkd_company_id": null,
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2001-01-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "1997-08-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Nurse Case Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "date": {
+          "$date": "2017-09-01T00:00:00.000Z"
+        },
+        "name": "Elevate the everyday experience",
+        "issuer": "American Airlines",
+        "description": null
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "date": {
+          "$date": "2017-06-01T00:00:00.000Z"
+        },
+        "name": "Best TCM award",
+        "issuer": "Genex",
+        "description": null
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "date": null,
+        "name": "Heart of Case Management award",
+        "issuer": null,
+        "description": null
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "date": null,
+        "name": "Elevate the everyday experience",
+        "issuer": null,
+        "description": null
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "name": "english",
+        "proficiency": "-"
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "SummitWest Care",
+          "location": "Garfield County, Colorado, United States",
+          "company_id": "63ef8c09df8d8b6507c77eb7",
+          "lnkd_company_id": "summitwestcare",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2021-08-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2019-02-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--less\">\n        Introduction, education and assessment with all new clients eligible for home health services. Complete and maintain all state required documentation. Conduct supervisory visits with clients and the caregiver. Used ClearCare platform to create and update schedule of caregivers. Attend leadership meetings and contribute to QAPI protocol. Provided reliable and safe care for clients.\n<!---->      </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Intake Coordinator/Scheduler"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "SummitWest Care",
+          "location": null,
+          "company_id": "63ef8c09df8d8b6507c77eb7",
+          "lnkd_company_id": "summitwestcare",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2021-09-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2018-05-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--less\">\n        Intake Coordinator/Scheduling/CNA\n<!---->      </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Healthcare Professional"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Our Nurses Inc",
+          "location": "Our Nurses Inc",
+          "company_id": "5bd4fa2310cac61dcbad122d",
+          "lnkd_company_id": "our-nurses-inc",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2019-07-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2013-07-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--less\">\n        CNA/Office Assistant for a private pay nursing agency. Responsible for maintaining State required documentation and records. Assisting with staff scheduling. Follow up claim calls to Insurance companies. Provided reliable and safe care to all home care clients.\n<!---->      </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "CNA"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "name": "english",
+        "proficiency": null
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Helping Ugandans Grow Stronger, Inc.",
+          "location": null,
+          "company_id": "5bd4f9b410cac61dcb98e40c",
+          "lnkd_company_id": "helping-ugandans-grow-stronger-inc.",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": null,
+          "start_date": {
+            "$date": "2003-07-01T00:00:00.000Z"
+          },
+          "to_present": true
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--less\">\n        Formed and incorporated a nonprofit foundation partnering with Ugandan based organizations. <br>Raised over $300,000 in funding to build facilities in Uganda.<br>Help to provide care &amp; education for AIDS/HIV-affected children in Uganda.  <br>Maintained sponsor program for &gt;100 children.\n<!---->      </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "President & Founder"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Helping Ugandans Grow Stronger, Inc.",
+          "location": null,
+          "company_id": "5bd4f9b410cac61dcb98e40c",
+          "lnkd_company_id": "helping-ugandans-grow-stronger-inc.",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": null,
+          "start_date": {
+            "$date": "2002-12-01T00:00:00.000Z"
+          },
+          "to_present": true
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--less\">\n        Established 2 medical clinics treating local Ugandan villagers.<br>Trained by Ugandan government to diagnose and treat diseases such as malaria, dysentery, systemic syphilis, and more.<br>Run immunization clinics for &gt;100 children<br>Educate villagers on health and personal safety issues<br>Maintain annual growth charts on &gt;100 children<br>Identify needs of village clinic to increase efficiency.\n<!---->      </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Missionary Nurse"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Sharp HealthCare",
+          "location": null,
+          "company_id": "5b0c4acb3200621bdb4d561d",
+          "lnkd_company_id": "sharp-healthcare",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2006-05-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2005-10-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--less\">\n        Cared for radiology patients that had AIFP's<br>Assessed and educated post-op patients for their return home.<br>Admitted patients during the last half of my shift, preparing them for their scheduled surgeries.<br>As needed, acted as charge nurse.\n<!---->      </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Registered Nurse, Ambulatory Care"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Sharp HealthCare",
+          "location": null,
+          "company_id": "5b0c4acb3200621bdb4d561d",
+          "lnkd_company_id": "sharp-healthcare",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2001-11-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2000-11-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--less\">\n        Worked with clients in their homes, skilled nursing facilities, and hospitals to provide for their physical , emotional, and spiritual well being.<br>Co-ordinated efforts of social workers, volunteers, housekeeping, nursing assistants, and pastoral care to provide the best care an support for clients with life limiting illnesses.<br>Attended team meetings to determine if the appropriate care was being given the client.\n<!---->      </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Registered Nurse, Hospice Case Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Complete Home Health Care",
+          "location": null,
+          "company_id": "60235171de9e51864cc2c865",
+          "lnkd_company_id": "complete-home-health-care-nj",
+          "lnkd_company_src_id": "1041490"
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2011-10-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2011-06-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Medical Case Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Eating Recovery Center",
+          "location": null,
+          "company_id": "5b0c4a923200621bdb306a83",
+          "lnkd_company_id": "eating-recovery-center",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2009-06-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2008-09-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Staff RN"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Visiting Nurse Association",
+          "location": null,
+          "company_id": "65ddf12f457f98768780fbaa",
+          "lnkd_company_id": "visiting-nurse-association",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2008-07-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2005-09-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Staff RN"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Swedish Medical Center",
+          "location": null,
+          "company_id": "5b0c4ad63200621bdb522408",
+          "lnkd_company_id": "a",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2005-09-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2004-03-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Staff RN--Gynecology Surgical Floor"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Complete Home Health Care",
+          "location": null,
+          "company_id": "60235171de9e51864cc2c865",
+          "lnkd_company_id": "complete-home-health-care-nj",
+          "lnkd_company_src_id": "1041490"
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2011-10-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2011-06-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Medical Case Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Eating Recovery Center",
+          "location": null,
+          "company_id": "5b0c4a923200621bdb306a83",
+          "lnkd_company_id": "eating-recovery-center",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2009-06-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2008-09-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Staff RN"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Visiting Nurse Association",
+          "location": null,
+          "company_id": "65ddf12f457f98768780fbaa",
+          "lnkd_company_id": "visiting-nurse-association",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2008-07-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2005-09-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Staff RN"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Swedish Medical Center",
+          "location": null,
+          "company_id": "5b0c4ad63200621bdb522408",
+          "lnkd_company_id": "a",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2005-09-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2004-03-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Staff RN--Gynecology Surgical Floor"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Brackenridge Hospital",
+          "location": null,
+          "company_id": "",
+          "lnkd_company_id": "brackenridge-hospital",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2009-02-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "1999-11-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": "<p class=\"show-more-less-text__text--more\" tabindex=\"-1\">\n          After graduating from nursing school, I stayed in the operating room at Brackenridge as a nurse that scrubs.  I received Surgical Services Nurse of the Year award as a first year nurse.  In the following years, I received multiple awards for patient advocacy and patient safety.  Responsibilities included Clinician of Neurosurgical Services, circulating surgical cases, assisting physicians when needed, setting up rooms for impending cases, role of charge nurse as needed, taking call when necessary, ordering supplies for the neurosurgical service, expert clinical resource in epilepsy and image guided craniotomies.  I scrubbed and circulated all Pediatric brain &amp; spine procures prior to the opening of Dell Children\u2019s Medical Center.\n            \n\n    \n    \n\n    <button class=\"show-more-less-text__button show-more-less-button\n        show-more-less-text__button--less\" data-tracking-control-name=\"public_profile_experience-item_show-less-text-btn\" aria-label=\" description for this position\" aria-expanded=\"true\">\n        \n\n          <icon class=\"show-more-less-text__button-icon show-more-less-button-icon\" data-delayed-url=\"https://static.licdn.com/aero-v1/sc/h/4chtt12k98xwnba1nimld2oyg\"></icon>\n    </button>\n  \n        </p>",
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "RN"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Scott & White Healthcare",
+          "location": null,
+          "company_id": "5b0c4a8f3200621bdb2eafe0",
+          "lnkd_company_id": null,
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": null,
+          "start_date": {
+            "$date": "2013-07-01T00:00:00.000Z"
+          },
+          "to_present": true
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Operating Room Nurse & Supply Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Perpetual Succour Hospital",
+          "location": null,
+          "company_id": "655527daf7c605b81ee7c268",
+          "lnkd_company_id": "perpetual-succour-hospital",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": null,
+          "start_date": {
+            "$date": "2023-10-01T00:00:00.000Z"
+          },
+          "to_present": true
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Registered Nurse"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "EXL Service Philippines, Inc.",
+          "location": null,
+          "company_id": "",
+          "lnkd_company_id": "exl-philippines",
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2023-10-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2019-06-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Medical Review Analyst"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "GSK",
+          "location": "Mississippi",
+          "company_id": "5b0c4a8b3200621bdb2ce240",
+          "lnkd_company_id": "gsk",
+          "location_parsed": {
+            "city": "",
+            "state": "Mississippi",
+            "country": "United States",
+            "state_short": "MS",
+            "country_short": "US"
+          },
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2015-06-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2009-01-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Account Manager"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "GlaxoSmithKline Biologicals",
+          "location": "Oxford, MS",
+          "company_id": "5b0c4a8b3200621bdb2ce240",
+          "lnkd_company_id": "gsk",
+          "location_parsed": {
+            "city": "Oxford",
+            "state": "Mississippi",
+            "country": "United States",
+            "state_short": "MS",
+            "country_short": "US"
+          },
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2024-06-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "2004-01-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Sr. Immunization Specialiist, Vaccines"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "skills": [],
+        "company": {
+          "name": "Biovail",
+          "location": "Meridian, MS",
+          "company_id": "5b0c4ae63200621bdb599be9",
+          "lnkd_company_id": "biovail",
+          "location_parsed": {
+            "city": "Meridian",
+            "state": "Mississippi",
+            "country": "United States",
+            "state_short": "MS",
+            "country_short": "US"
+          },
+          "lnkd_company_src_id": null
+        },
+        "duration": {
+          "end_date": {
+            "$date": "2004-01-01T00:00:00.000Z"
+          },
+          "start_date": {
+            "$date": "1999-10-01T00:00:00.000Z"
+          }
+        },
+        "projects": [
+          {
+            "misc": {
+              "contributors": []
+            },
+            "description": null,
+            "project_type": "Industry",
+            "role_and_group": {
+              "title": "Pharmaceutical Rep"
+            }
+          }
+        ]
+      },
+      "decision": "no"
+    }
+  ]
+}

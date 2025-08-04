@@ -1,0 +1,12 @@
+{
+  "job_id": "ftjob-HLvOnFAjitutb58tk6ZrkNjl",
+  "status": "cancelled",
+  "model_id": null,
+  "created_at": 1754327251,
+  "finished_at": null,
+  "training_file": "file-6RhaYcnhPWgKkcWtxDCs79",
+  "validation_file": "file-LCJaET46uwJgkGk1PcRnAq",
+  "hyperparameters": "Hyperparameters(batch_size=1, learning_rate_multiplier=2.0, n_epochs=3)",
+  "trained_tokens": null,
+  "error": null
+}

@@ -1,0 +1,670 @@
+{
+  "job_criteria": {
+    "job_title": "Home Care Case Manager RN",
+    "company": "Home Care Services",
+    "department": "Healthcare",
+    "required_skills": [
+      "Case Management",
+      "Registered Nurse",
+      "Patient Care Coordination",
+      "Healthcare Documentation",
+      "Telehealth",
+      "In-home Care"
+    ],
+    "preferred_skills": [
+      "Workers Compensation",
+      "Medical-Surgical",
+      "Acute Care",
+      "Ergonomics"
+    ],
+    "required_experience_years": 3,
+    "experience_level": "mid",
+    "required_certifications": [
+      "RN License",
+      "CCM (Certified Case Manager)"
+    ],
+    "job_description": "I have experience as a case manager, where I effectively coordinate patient care and services. As a registered nurse, I provide in-home case management, ensuring that patients receive the necessary support. I regularly report back to physicians through telehealth or in-hospital visits to keep them informed about patient progress. I am diligent in documenting all interactions and observations while at the patient's home to maintain accurate records.",
+    "responsibilities": [
+      "Coordinate patient care",
+      "Provide in-home case management",
+      "Report to physicians via telehealth",
+      "Maintain accurate patient documentation"
+    ],
+    "location": "Remote/Home-based",
+    "remote_allowed": true
+  },
+  "candidates": [
+    {
+      "profile": {
+        "name": "Candidate_1",
+        "work_history": [
+          {
+            "company": "Sharp HealthCare",
+            "location": null,
+            "start_date": "2000-11-01T00:00:00.000Z",
+            "end_date": "2001-11-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Registered Nurse, Hospice Case Manager",
+                "description": "Worked with clients in their homes, skilled nursing facilities, and hospitals to provide for their physical , emotional, and spiritual well being.Co-ordinated efforts of social workers, volunteers, housekeeping, nursing assistants, and pastoral care to provide the best care an support for clients with life limiting illnesses.Attended team meetings to determine if the appropriate care was being given the client."
+              }
+            ]
+          },
+          {
+            "company": "Brackenridge Hospital",
+            "location": null,
+            "start_date": "1999-11-01T00:00:00.000Z",
+            "end_date": "2009-02-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "RN",
+                "description": "After graduating from nursing school, I stayed in the operating room at Brackenridge as a nurse that scrubs. I received Surgical Services Nurse of the Year award as a first year nurse. In the following years, I received multiple awards for patient advocacy and patient safety. Responsibilities included Clinician of Neurosurgical Services, circulating surgical cases, assisting physicians when needed, setting up rooms for impending cases, role of charge nurse as needed, taking call when necessary, ordering supplies for the neurosurgical service, expert clinical resource in epilepsy and image guided craniotomies. I scrubbed and circulated all Pediatric brain & spine procures prior to the opening of Dell Children\u2019s Medical Center."
+              }
+            ]
+          },
+          {
+            "company": "Biovail",
+            "location": "Meridian, MS",
+            "start_date": "1999-10-01T00:00:00.000Z",
+            "end_date": "2004-01-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Pharmaceutical Rep",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "Healthworks, Sisters Healthcare",
+            "location": null,
+            "start_date": "1997-08-01T00:00:00.000Z",
+            "end_date": "2001-01-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Nurse Case Manager",
+                "description": ""
+              }
+            ]
+          }
+        ],
+        "technical_skills": [],
+        "years_experience": 17,
+        "current_title": "Registered Nurse, Hospice Case Manager",
+        "summary": "Experienced registered nurse, hospice case manager with background in nursing, medical care.",
+        "awards": [
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": "American Airlines",
+            "date": "2017-09-01T00:00:00.000Z"
+          },
+          {
+            "name": "Best TCM award",
+            "issuer": "Genex",
+            "date": "2017-06-01T00:00:00.000Z"
+          },
+          {
+            "name": "Heart of Case Management award",
+            "issuer": null,
+            "date": ""
+          },
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": null,
+            "date": ""
+          }
+        ],
+        "languages": [
+          {
+            "name": "english",
+            "proficiency": "-"
+          },
+          {
+            "name": "english",
+            "proficiency": null
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "name": "Candidate_2",
+        "work_history": [
+          {
+            "company": "GlaxoSmithKline Biologicals",
+            "location": "Oxford, MS",
+            "start_date": "2004-01-01T00:00:00.000Z",
+            "end_date": "2024-06-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Sr. Immunization Specialiist, Vaccines",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "Helping Ugandans Grow Stronger, Inc.",
+            "location": null,
+            "start_date": "2003-07-01T00:00:00.000Z",
+            "end_date": "Present",
+            "positions": [
+              {
+                "title": "President & Founder",
+                "description": "Formed and incorporated a nonprofit foundation partnering with Ugandan based organizations. Raised over $300,000 in funding to build facilities in Uganda.Help to provide care & education for AIDS/HIV-affected children in Uganda. Maintained sponsor program for >100 children."
+              }
+            ]
+          },
+          {
+            "company": "Helping Ugandans Grow Stronger, Inc.",
+            "location": null,
+            "start_date": "2002-12-01T00:00:00.000Z",
+            "end_date": "Present",
+            "positions": [
+              {
+                "title": "Missionary Nurse",
+                "description": "Established 2 medical clinics treating local Ugandan villagers.Trained by Ugandan government to diagnose and treat diseases such as malaria, dysentery, systemic syphilis, and more.Run immunization clinics for >100 childrenEducate villagers on health and personal safety issuesMaintain annual growth charts on >100 childrenIdentify needs of village clinic to increase efficiency."
+              }
+            ]
+          },
+          {
+            "company": "Managed Care Network, Inc.",
+            "location": null,
+            "start_date": "2001-01-01T00:00:00.000Z",
+            "end_date": "2005-07-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Nurse Case Manager",
+                "description": "\u2022 Field WC Case Management.\u2022 Conduct and document initial assessments, and a specific care management plan to address objectives and goals as identified during assessment \u2022 Implement care plan by maintaining telephone contacts with treating parties and claimants \u2022 Travel and meet personally with medical and treating personal to asses and secure treatment plan and prognosis, challenge and address concerns regarding progress of injured worker.\u2022 Monitor and evaluate effectiveness of the care management plan and modify as necessary\u2022 Assist in problem solving with providers, claims or service issues\u2022 Submit written, typed reports"
+              }
+            ]
+          }
+        ],
+        "technical_skills": [],
+        "years_experience": null,
+        "current_title": "Sr. Immunization Specialiist, Vaccines",
+        "summary": "Experienced sr. immunization specialiist, vaccines with background in case management, medical care.",
+        "awards": [
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": "American Airlines",
+            "date": "2017-09-01T00:00:00.000Z"
+          },
+          {
+            "name": "Best TCM award",
+            "issuer": "Genex",
+            "date": "2017-06-01T00:00:00.000Z"
+          },
+          {
+            "name": "Heart of Case Management award",
+            "issuer": null,
+            "date": ""
+          },
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": null,
+            "date": ""
+          }
+        ],
+        "languages": [
+          {
+            "name": "english",
+            "proficiency": "-"
+          },
+          {
+            "name": "english",
+            "proficiency": null
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "name": "Candidate_3",
+        "work_history": [
+          {
+            "company": "Visiting Nurse Association",
+            "location": null,
+            "start_date": "2005-09-01T00:00:00.000Z",
+            "end_date": "2008-07-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Staff RN",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "MEDNY",
+            "location": null,
+            "start_date": "2005-07-01T00:00:00.000Z",
+            "end_date": "2006-01-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Medical Case Manager",
+                "description": "\u2022 On site WC Case Management at Delphi (GM)\u2022 Conduct and document initial assessments telephonic and on-site, to secure injury and treatment history, identify individual needs and implement a specific care management plan to address objectives and goals as identified during assessment \u2022 Maintain and evaluate care plan by maintaining telephone contacts with treating parties and claimants.\u2022 Monitor and evaluate effectiveness of the care management plan and modify as necessary\u2022 Address and challenge treatment plan and results with medical providers\u2022 Liaison with UAW representatives, injured worker and Medical Director to ensure compliance and implementation of care plan to assist with a timely return to work\u2022 Develop and implement safety measures including ergonomic work stations for injury prevention and assess success."
+              }
+            ]
+          },
+          {
+            "company": "Swedish Medical Center",
+            "location": null,
+            "start_date": "2004-03-01T00:00:00.000Z",
+            "end_date": "2005-09-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Staff RN--Gynecology Surgical Floor",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "Swedish Medical Center",
+            "location": null,
+            "start_date": "2004-03-01T00:00:00.000Z",
+            "end_date": "2005-09-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Staff RN--Gynecology Surgical Floor",
+                "description": ""
+              }
+            ]
+          }
+        ],
+        "technical_skills": [],
+        "years_experience": 6,
+        "current_title": "Staff RN",
+        "summary": "Experienced staff rn with background in medical care, case management.",
+        "awards": [
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": "American Airlines",
+            "date": "2017-09-01T00:00:00.000Z"
+          },
+          {
+            "name": "Best TCM award",
+            "issuer": "Genex",
+            "date": "2017-06-01T00:00:00.000Z"
+          },
+          {
+            "name": "Heart of Case Management award",
+            "issuer": null,
+            "date": ""
+          },
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": null,
+            "date": ""
+          }
+        ],
+        "languages": [
+          {
+            "name": "english",
+            "proficiency": "-"
+          },
+          {
+            "name": "english",
+            "proficiency": null
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "name": "Candidate_4",
+        "work_history": [
+          {
+            "company": "Disability Management Associates, Inc",
+            "location": null,
+            "start_date": "2007-03-01T00:00:00.000Z",
+            "end_date": "2015-06-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Sr. Medical Case Manager",
+                "description": "\u2022 Daily oversight of Field Case Managers in workers\u2019 compensation and disability management in WNY and NYC areas\u2022 Liaison between customers & staff to ensure compliance with all contractual obligations, timelines, and cost containment expectations\u2022 Recruiting/interviewing/hiring/evaluation/discipline of staff\u2022 Responsible for the training of new and existing staff; development and implementation of in-service/training programs related to various work functions\u2022 Submit typed timely initial assessment and progress reports weekly\u2022 Created and implemented a successful absenteeism program for accounts."
+              }
+            ]
+          },
+          {
+            "company": "FCS Administrators",
+            "location": null,
+            "start_date": "2006-01-01T00:00:00.000Z",
+            "end_date": "2007-03-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Medical Case Manager",
+                "description": "\u2022 On-site WC Case Management for TPA\u2022 Leverage Medical knowledge and liaison with adjusters to identify goals and implement care plan to achieve timely return to work status. \u2022 Meet corporate goals for telephone contact, inquiry and ensure timely documentation\u2022 Monitor and evaluate effectiveness of the care management plan and modify as necessary\u2022 Assist in problem solving with providers, claims or service issues\u2022 Ensure compliance with state workers\u2019 compensation law"
+              }
+            ]
+          },
+          {
+            "company": "Sharp HealthCare",
+            "location": null,
+            "start_date": "2005-10-01T00:00:00.000Z",
+            "end_date": "2006-05-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Registered Nurse, Ambulatory Care",
+                "description": "Cared for radiology patients that had AIFP'sAssessed and educated post-op patients for their return home.Admitted patients during the last half of my shift, preparing them for their scheduled surgeries.As needed, acted as charge nurse."
+              }
+            ]
+          },
+          {
+            "company": "Visiting Nurse Association",
+            "location": null,
+            "start_date": "2005-09-01T00:00:00.000Z",
+            "end_date": "2008-07-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Staff RN",
+                "description": ""
+              }
+            ]
+          }
+        ],
+        "technical_skills": [],
+        "years_experience": 12,
+        "current_title": "Sr. Medical Case Manager",
+        "summary": "Experienced sr. medical case manager with background in medical care, nursing, case management.",
+        "awards": [
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": "American Airlines",
+            "date": "2017-09-01T00:00:00.000Z"
+          },
+          {
+            "name": "Best TCM award",
+            "issuer": "Genex",
+            "date": "2017-06-01T00:00:00.000Z"
+          },
+          {
+            "name": "Heart of Case Management award",
+            "issuer": null,
+            "date": ""
+          },
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": null,
+            "date": ""
+          }
+        ],
+        "languages": [
+          {
+            "name": "english",
+            "proficiency": "-"
+          },
+          {
+            "name": "english",
+            "proficiency": null
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "name": "Candidate_5",
+        "work_history": [
+          {
+            "company": "Complete Home Health Care",
+            "location": null,
+            "start_date": "2011-06-01T00:00:00.000Z",
+            "end_date": "2011-10-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Medical Case Manager",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "GSK",
+            "location": "Mississippi",
+            "start_date": "2009-01-01T00:00:00.000Z",
+            "end_date": "2015-06-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Account Manager",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "Eating Recovery Center",
+            "location": null,
+            "start_date": "2008-09-01T00:00:00.000Z",
+            "end_date": "2009-06-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Staff RN",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "Eating Recovery Center",
+            "location": null,
+            "start_date": "2008-09-01T00:00:00.000Z",
+            "end_date": "2009-06-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Staff RN",
+                "description": ""
+              }
+            ]
+          }
+        ],
+        "technical_skills": [],
+        "years_experience": 8,
+        "current_title": "Medical Case Manager",
+        "summary": "Experienced medical case manager with background in healthcare.",
+        "awards": [
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": "American Airlines",
+            "date": "2017-09-01T00:00:00.000Z"
+          },
+          {
+            "name": "Best TCM award",
+            "issuer": "Genex",
+            "date": "2017-06-01T00:00:00.000Z"
+          },
+          {
+            "name": "Heart of Case Management award",
+            "issuer": null,
+            "date": ""
+          },
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": null,
+            "date": ""
+          }
+        ],
+        "languages": [
+          {
+            "name": "english",
+            "proficiency": "-"
+          },
+          {
+            "name": "english",
+            "proficiency": null
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "name": "Candidate_6",
+        "work_history": [
+          {
+            "company": "SummitWest Care",
+            "location": null,
+            "start_date": "2018-05-01T00:00:00.000Z",
+            "end_date": "2021-09-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Healthcare Professional",
+                "description": "Intake Coordinator/Scheduling/CNA"
+              }
+            ]
+          },
+          {
+            "company": "Our Nurses Inc",
+            "location": "Our Nurses Inc",
+            "start_date": "2013-07-01T00:00:00.000Z",
+            "end_date": "2019-07-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "CNA",
+                "description": "CNA/Office Assistant for a private pay nursing agency. Responsible for maintaining State required documentation and records. Assisting with staff scheduling. Follow up claim calls to Insurance companies. Provided reliable and safe care to all home care clients."
+              }
+            ]
+          },
+          {
+            "company": "Scott & White Healthcare",
+            "location": null,
+            "start_date": "2013-07-01T00:00:00.000Z",
+            "end_date": "Present",
+            "positions": [
+              {
+                "title": "Operating Room Nurse & Supply Manager",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "Complete Home Health Care",
+            "location": null,
+            "start_date": "2011-06-01T00:00:00.000Z",
+            "end_date": "2011-10-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Medical Case Manager",
+                "description": ""
+              }
+            ]
+          }
+        ],
+        "technical_skills": [],
+        "years_experience": null,
+        "current_title": "Healthcare Professional",
+        "summary": "Experienced healthcare professional with background in nursing.",
+        "awards": [
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": "American Airlines",
+            "date": "2017-09-01T00:00:00.000Z"
+          },
+          {
+            "name": "Best TCM award",
+            "issuer": "Genex",
+            "date": "2017-06-01T00:00:00.000Z"
+          },
+          {
+            "name": "Heart of Case Management award",
+            "issuer": null,
+            "date": ""
+          },
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": null,
+            "date": ""
+          }
+        ],
+        "languages": [
+          {
+            "name": "english",
+            "proficiency": "-"
+          },
+          {
+            "name": "english",
+            "proficiency": null
+          }
+        ]
+      },
+      "decision": "no"
+    },
+    {
+      "profile": {
+        "name": "Candidate_7",
+        "work_history": [
+          {
+            "company": "Perpetual Succour Hospital",
+            "location": null,
+            "start_date": "2023-10-01T00:00:00.000Z",
+            "end_date": "Present",
+            "positions": [
+              {
+                "title": "Registered Nurse",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "EXL Service Philippines, Inc.",
+            "location": null,
+            "start_date": "2019-06-01T00:00:00.000Z",
+            "end_date": "2023-10-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Medical Review Analyst",
+                "description": ""
+              }
+            ]
+          },
+          {
+            "company": "SummitWest Care",
+            "location": "Garfield County, Colorado, United States",
+            "start_date": "2019-02-01T00:00:00.000Z",
+            "end_date": "2021-08-01T00:00:00.000Z",
+            "positions": [
+              {
+                "title": "Intake Coordinator/Scheduler",
+                "description": "Introduction, education and assessment with all new clients eligible for home health services. Complete and maintain all state required documentation. Conduct supervisory visits with clients and the caregiver. Used ClearCare platform to create and update schedule of caregivers. Attend leadership meetings and contribute to QAPI protocol. Provided reliable and safe care for clients."
+              }
+            ]
+          }
+        ],
+        "technical_skills": [],
+        "years_experience": null,
+        "current_title": "Registered Nurse",
+        "summary": "Experienced registered nurse with background in healthcare.",
+        "awards": [
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": "American Airlines",
+            "date": "2017-09-01T00:00:00.000Z"
+          },
+          {
+            "name": "Best TCM award",
+            "issuer": "Genex",
+            "date": "2017-06-01T00:00:00.000Z"
+          },
+          {
+            "name": "Heart of Case Management award",
+            "issuer": null,
+            "date": ""
+          },
+          {
+            "name": "Elevate the everyday experience",
+            "issuer": null,
+            "date": ""
+          }
+        ],
+        "languages": [
+          {
+            "name": "english",
+            "proficiency": "-"
+          },
+          {
+            "name": "english",
+            "proficiency": null
+          }
+        ]
+      },
+      "decision": "no"
+    }
+  ]
+}
