@@ -61,6 +61,38 @@ relevate/
 - Response caching and optimization
 - Integration endpoints for other applications
 
+## Data Format
+
+Relevate expects training data in JSON format with job criteria and candidate profiles:
+
+```json
+{
+  "job_criteria": {
+    "job_title": "Senior Software Engineer",
+    "company": "TechCorp",
+    "required_skills": ["Python", "JavaScript", "REST API"],
+    "required_experience_years": 5,
+    "required_languages": ["Python", "JavaScript"],
+    "location": "San Francisco",
+    "remote_allowed": true
+  },
+  "candidates": [
+    {
+      "profile": {
+        "name": "John Smith",
+        "current_title": "Software Engineer",
+        "years_experience": 6,
+        "technical_skills": ["Python", "JavaScript", "Docker"],
+        "programming_languages": ["Python", "JavaScript", "TypeScript"]
+      },
+      "decision": "yes",  // or "no", "maybe", "strong_match", etc.
+      "confidence": 0.9,  // optional
+      "reasoning": "Strong skills match, good experience"  // optional
+    }
+  ]
+}
+```
+
 ## Getting Started
 
 1. Set up environment variables:
@@ -74,6 +106,13 @@ pip install -r requirements.txt
 ```
 
 3. Generate training data:
+
+**Option A: From real examples (recommended)**
+```bash
+python scripts/generate_training_data_from_examples.py
+```
+
+**Option B: Synthetic data only**
 ```bash
 python scripts/generate_training_data.py
 ```
